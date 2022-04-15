@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:5713",
+      "applicationUrl": "http://localhost:5842",
       "sslPort": 44307
     }
   },
   "profiles": {
-    "Financial_Helper": {
+    "FinancialPlanner": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7021;http://localhost:5021",
+      "applicationUrl": "https://localhost:7022;http://localhost:5022",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

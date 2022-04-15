@@ -1,8 +1,8 @@
-﻿using Financial_Helper.Models;
+﻿using FinancialPlanner.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Financial_Helper.Controllers
+namespace FinancialPlanner.Controllers
 {
     public class HomeController : Controller
     {
