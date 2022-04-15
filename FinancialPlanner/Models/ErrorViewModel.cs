@@ -1,4 +1,4 @@
-namespace Financial_Helper.Models
+namespace FinancialPlanner.Models
 {
     public class ErrorViewModel
     {
